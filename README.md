@@ -56,6 +56,14 @@ link: https://github.com/signup
 
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
+<br>
+
+**5. Create a Python Environment** 
+
+|   code               |      instruction                        |         description                                    |
+|----------------------|-----------------------------------------|--------------------------------------------------------|
+| `python -m venv env` |   open a terminal and run the code      | tthis code will create a modular environment of Python
+
 
 --- x ---
 
