@@ -2,7 +2,7 @@
 1. git
 link : https://git-scm.com/downloads
 
-codes to remember:
+codes
 > git init .                                     -  create new Git repository
 > git add .                                      -  adds a change in the working directory to the staging area (to all unstaged files)
 > git add <file>                                 -  adds a change in the working directory to the staging area (for a specific file only)
