@@ -62,8 +62,6 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 # This is my first file to respository
 Hellow World!
 
-
-27:34       - end of creation of folder, git init, add, commit <br>
-31:52       - creation of github repository                    <br>
-11:46       - new context                                      <br>
+# New file has been added
+first_file.py
 
