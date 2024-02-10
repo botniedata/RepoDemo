@@ -60,9 +60,13 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 
 **5. Create a Python Environment** 
 
-|   code               |      instruction                        |         description                                    |
-|----------------------|-----------------------------------------|--------------------------------------------------------|
-| `python -m venv env` |   open a terminal and run the code      | tthis code will create a modular environment of Python
+|   code                                         |      instruction                                   |         description                                          |-------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------|
+| `python -m venv env`                           |   open a terminal and run the code                 |  this code will create a modular environment of Python       |
+|                                                |   create `.gitignore` file                         |  to ignore patterns by Git/Github                            |
+| `env\Scripts\Activate.ps1`                     |   `activate` the envornment via PowerShell         |   to activate the Python environment using PowerShell        |
+| `env\Scripts\activate.bat`                     |   `activate` the envornment via Command Prompt     |   to activate the Python environment using Command Prompt    |
+| `env\Scripts\deactivate.bat`                   |   `deactivate` the envornment via Command Prompt   |   to deactivate the Python environment using Command Prompt  |
+| `pip install -r requirements.txt`              |   include inside the txt file the packages needed  |   to download specific package/s needed to the environment   |
 
 
 --- x ---
