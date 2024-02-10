@@ -1,7 +1,8 @@
 ### things to prepare and should be installed
 
-1. Download and Installa Git to your local PC <br>
-[Click to redirect on Download Page](https://git-scm.com/downloads)
+**1. Download and Install Git to your local PC**
+
+https://git-scm.com/downloads
 
 |   codes                                          |       description                                                                                                                           |                              
 |-------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -20,31 +21,40 @@
 | >`nano <exisiting-file>`                         |-  to create any changes using unix editor                                                                                                   |
 | :`ctrl + o` *hit buttons*                        |-  to save the file                                                                                                                          |
 | :`ctrl + x` *hit buttons*                        |-  to close the file                                                                                                                         |
+<br>
 
+**2. Download and Install Visual Studio Code Editor**
+   
+https://visualstudio.microsoft.com/downloads/
 
-2. Download and Install Visual Studio Code Editor <br>
-[Click to redirect on Download Page](https://code.visualstudio.com/download) <br>
 *Note: restart PC is required*
 
-code:
-> new-item <file>                   - creating new file
+|   codes                                          |       description                                                                                                                           |                              
+|-------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
+| `new-item <file>`                                |-  create new Git repository                                                                                                                 |
 
+<br>
 
-3. power-shell (normal and administrator)
-Note: this is pre-installed for Windows Users
+**3. Powershell (normal and administrator)**
+   
+|   codes                                          |       description                                                                                                                           |                              
+|-------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
+| >`cd <directory>`                                |-  create new Git repository                                                                                                                 |
+| >`cd..`                                          |-  go back 1 location directory from the current                                                                                             |
+| >`mkdir <directory-name>`                        |-  make directory or create directory                                                                                                        |
+| >`code .`                                        |-  to open visual studio code via terminal                                                                                                   |
 
-code:
-> cd <directory>                    - change directory
-> cd ..                             - go back 1 location directory from the current
-> mkdir <directory-name>            - make directory or create directory
-> code .                            - to open visual studio code via terminal
+*Note: this is pre-installed for Windows Users*
 
-4. Github Account
+<br>
+
+**4. Github Account**
 Create an account
 link: https://github.com/signup
 
-Generating a new SSH Key and adding it to the ssh-agent
-link: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+*Generating a new SSH Key and adding it to the ssh-agent*
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 
 --- x ---
@@ -53,7 +63,7 @@ link: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/ge
 Hellow World!
 
 
-27:34       - end of creation of folder, git init, add, commit
-31:52       - creation of github repository
-11:46       - new context
+27:34       - end of creation of folder, git init, add, commit <br>
+31:52       - creation of github repository                    <br>
+11:46       - new context                                      <br>
 
